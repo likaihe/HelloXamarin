@@ -20,7 +20,7 @@ namespace HelloXamarin
                     Children = {
                         new Label {
                             HorizontalTextAlignment = TextAlignment.Center,
-                            Text = "Welcome to Xamarin Forms!"
+                            Text = "I am here likai He"
                         }
                     }
                 }
